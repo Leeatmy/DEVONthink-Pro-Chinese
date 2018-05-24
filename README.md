@@ -1,4 +1,63 @@
-![](http://www.devontechnologies.com/typo3temp/pics/0576cc2cfa.png)
+# DEVONthink Pro 2.9.17 中文化 （汉化）2018-05
+
+已经来到了，2018年5月，转眼已经快3年了，看着这些过去留下的文字，也留下了曾经的记忆。没有想到，这个中文化能够被网友发现，并且把链接粘贴到zhihu上，没有想到会被很多朋友使用，在这里表示感谢。
+
+当时纯粹是对‘DEVONthink’的喜欢，所以从零开始，从根本不知道用哪个编辑器开始，根本不知道打开哪个文件开始，一点点的学着做翻译。别看当时的翻译有很多不足的地方，DEVONthink装着这个翻译也陪着我走过了这几年，实际我很满意自己的劳动。
+
+过了这么多年一直静悄悄的，没有反馈，直到几天前，终于有网友 @aoaoho 上传了他的修改。
+我做优化了，现在从新更新。
+
+## 优化基于这几给方面：
+### 1.明显的错误
+### 2.英语直译，会造成英语式的口语，改進成了中式口语。
+
+例如：最上面为优化前的原始翻译，下面是优化后。
+
+Create 变成中文，对应不同名词，叫法不同。
+
+"Creating Thumbnails" = "创建缩略图";
+"Creating Thumbnails" = "建立缩略图";
+
+"Create Spotlight Index" = "创建Spotlight索引";
+"Create Spotlight Index" = "建立 Spotlight索引";
+
+"Create a new plain text" = "创建一个新的纯文本";
+"Create a new plain text" = "新建 纯文本 txt";
+
+### 3.实际安装使用后，比对是否符合使用情景。既要表明原始意思，又要阐明实际使用用途，方便使用，还要简介有力。期间还会查询字典，整个过程非常耗费时间、脑力。
+
+可以说英语直译最简单，直接翻译完成后，校对就可以了。
+符合实际使用情景，就是要这样，要用，看看合不合适，动脑，还要返工。
+
+看到最后的翻译结果，可能对于一些人不知道，为什么要这么翻译的，怎么和直译的有区别，如果喜欢直译风格的请直接使用 网友 @aoaoho 上传的翻译，我这里就是做适合使用的，给自己用的翻译。（笑 😊 请不要吵）
+
+例如：最上面为优化前的原始翻译，接下来是每一次的返工修改，直到最下面的翻译结果。
+
+"Show In Finder" = "在Finder中显示";
+"Show in Finder" = "显示在「访达」中的位置";
+"Show in Finder" = "用「访达」显示文件";
+"Show in Finder" = "用「访达」管理文件";
+"Show In Finder" = "用 访达 管理此文档";
+"Show In Finder" = "用 访达 管理文件";
+
+"Script Menu Extra" = "脚本菜单附加";
+"Script Menu Extra" = "菜单附加脚本";
+"Script Menu Extra" = "菜单栏 附加脚本";
+"Script Menu Extra" = "菜单栏 附加脚本 Script";
+"Script Menu Extra" = "用于 菜单栏 Script 附加脚本";
+"Script Menu Extra" = "菜单栏 Scripts 附加脚本";
+"Script Menu Extra" = "菜单栏 Scripts 脚本";
+
+"Replicant" = "制作替身（Replicant）";
+"Replicant" = "联动镜相";
+"Replicate To" = "生成 联动镜相";
+
+"Duplicate To" = "副本到 （Duplicate）";
+"Duplicate To" = "复本到";
+"Duplicate To" = "复制到";
+
+
+———————————— 分割线 ——————————————
 
 # DEVONthink Pro 2.8.7 中文化（汉化）
 
