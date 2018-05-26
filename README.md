@@ -5,8 +5,8 @@
 
 当时纯粹是对‘DEVONthink’的喜欢，所以从零开始，从根本不知道用哪个编辑器开始，根本不知道打开哪个文件开始，一点点的学着做翻译。别看当时的翻译有很多不足的地方，DEVONthink装着这个翻译也陪着我走过了这几年，实际我很满意自己的劳动。
 
-过了这么多年一直静悄悄的，没有反馈，直到几天前，看到终于有网友 @aoaoho 上传了他的修改。
-（ https://github.com/aoaoho/DEVONthink-Chinese ）
+过了这么多年一直静悄悄的，没有反馈，直到几天前，看到终于有网友 [@aoaoho](https://github.com/aoaoho/DEVONthink-Chinese) 上传了他的修改。
+
 我做优化了，现在从新更新。
 
 ## 优化基于这几个方面：
@@ -87,6 +87,9 @@ Create 变成中文，对应不同名词，叫法不同。
 "Your software is up-to-date" = "很好，您的软件是最新的。(^_^)V";
 "Your software is up-to-date" = "太好了，主人的软件是最新的。(^_^)V";
 ```
+
+!(https://github.com/Leeatmy/DEVONthink-Pro-Chinese/blob/master/Look%2001%202018-05-26.png?raw=true)
+
 
 ———————————— 分割线 ——————————————
 
