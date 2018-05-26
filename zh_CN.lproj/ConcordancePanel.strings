@@ -1,7 +1,7 @@
 "Update" = "更新";
-"Length:" = "占用字符：";
+"Length:" = "占用字位：";
 "Characters" = "字";
-"Alphanumeric" = "数字";
+"Alphanumeric" = "包括数字";
 "Frequency" = "使用次数";
 "Groups" = "文档";
 "Length" = "占用字符";

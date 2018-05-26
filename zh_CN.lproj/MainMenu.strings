@@ -87,8 +87,8 @@
 "Show In Finder" = "用 访达 管理此文档";
 "Label" = "标记";
 "Mark" = "标注";
-"As Read" = "成为已读";
-"As Unread" = "成为未读";
+"As Read" = "变成已读";
+"As Unread" = "变成未读";
 "Check" = "加上旗标";
 "Uncheck" = "除去旗标";
 "Lock" = "文件上锁 变成只读";
@@ -242,8 +242,8 @@
 "Search..." = "搜索...";
 "DEVONagent" = "DEVONagent";
 "Concordance" = "用字索引";
-"History" = "历史";
-"Log" = "日志";
+"History" = "文档历史编辑清单";
+"Log" = "日志记录";
 "Verify & Repair" = "检测修复";
 "Backup & Optimize" = "优化备份";
 "Restore Backup..." = "恢复备份...";
@@ -379,7 +379,7 @@
 "by Aliases" = "按别名";
 "by Tags" = "按标签";
 
-"Activity" = "活动";
+"Activity" = "活动记录";
 "Tutorials" = "教程";
 
 "Quick Look" = "快速查看";

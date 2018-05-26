@@ -110,7 +110,7 @@
 "%d documents" = "%d 合并后的文件";
 
 /* na */
-"Convert document to plain text?" = "请注意：您确定要将文档转换成以txt为格式的纯文本吗？";
+"Convert document to plain text?" = "主人请注意：确定要将文档转换成以txt为格式的纯文本吗？";
 
 /* na */
 "Converting will lose fonts, colors, and other text styles in the document." = "转换仅仅只保留文字。将除去此文档中的所有图片、链接、定制字型、字体颜色，以及文档中的其它样式。";
@@ -308,13 +308,13 @@
 "Index Files" = "索引文件";
 
 /* na */
-"Are you sure you want to remove the items in the Trash permanently? You cannot undo this action." = "您确定要永久移除废纸篓中的条目吗？此操作无法撤消。";
+"Are you sure you want to remove the items in the Trash permanently? You cannot undo this action." = "主人确定要永久移除废纸篓中的条目吗？此操作无法撤消。";
 
 /* na */
-"Do you really want to remove the selected items? This cannot be undone." = "您确定要移除所选条目吗？此操作无法撤消。";
+"Do you really want to remove the selected items? This cannot be undone." = "主人确定要移除所选条目吗？此操作无法撤消。";
 
 /* na */
-"Do you really want to remove the selected items?" = "您确定要移除所选条目吗？";
+"Do you really want to remove the selected items?" = "主人确定要移除所选条目吗？";
 
 /* na */
 "Some files may be represented on disk.\nAlso remove from disk?" = "一些外部文件和文件夹条目已被索引。也移除这些文件和文件夹吗？此操作无法撤消！";
@@ -391,7 +391,7 @@
 "Unknown version of database files!" = "数据库文件版本未知！";
 
 /* na */
-"The database you are trying to open seems to be either in use by another instance of %@ or has not been closed properly the last time it was used. Press 'Continue' to open the database anyway if you are sure it is not in use by another copy of %@." = "另一个程序 %@ 正在使用您要打开的数据库，也可能，最后一次使用此数据库时并没有正确的关闭。如果您确定此数据库没有正在被另一个程序 %@ 使用，请点“继续”打开它。";
+"The database you are trying to open seems to be either in use by another instance of %@ or has not been closed properly the last time it was used. Press 'Continue' to open the database anyway if you are sure it is not in use by another copy of %@." = "主人，另一个程序 %@ 正在使用您要打开的数据库，也可能，最后一次使用此数据库时并没有正确的关闭。如果主人确定此数据库没有正在被另一个程序 %@ 使用，请点“继续”打开它。";
 
 /* na */
 "This database might be in use on another computer. Opening it anyway might result in data loss or data corruption." = "该数据库也许正在另一台计算机上使用，继续打开可能会导致数据丢失或损坏。";
@@ -484,7 +484,7 @@
 "Open Image In PhotoStickies" = "在PhotoStickies中打开图像";
 
 /* na */
-"The files of your database are stored in an old format. Do you want to upgrade to the current format?\n\nThe application will export the contents and import them into a new database." = "此数据库文件是用旧格式储存的。您想更新到当前格式吗？\n\n DEVONthink 将导出内容并将其导入到一个新的数据库中。";
+"The files of your database are stored in an old format. Do you want to upgrade to the current format?\n\nThe application will export the contents and import them into a new database." = "此数据库文件是用旧格式储存的。主人想更新此数据库到当前格式吗？\n\n DEVONthink 将导出内容并将其导入到一个新的数据库中。";
 
 /* na */
 "Capture Frame" = "捕获 Frame";
@@ -502,7 +502,7 @@
 "Rebuild Database" = "从建数据库";
 
 /* na */
-"The application will export your contents, create a backup of the database and import the contents into a new database." = "DEVONthink将导出您的内容，创建数据库的备份并将内容导入到新的数据库中。";
+"The application will export your contents, create a backup of the database and import the contents into a new database." = "DEVONthink将导出主人的内容，创建数据库的备份并将内容导入到新的数据库中。";
 
 /* na */
 "Open Page In Browser" = "在浏览器中打开页面";
@@ -967,7 +967,7 @@
 "Warning" = "警告";
 
 /* na */
-"Are you sure you want to open %d items?" = "您确定要打开 %d 条目?";
+"Are you sure you want to open %d items?" = "主人确定要打开 %d 条目?";
 
 /* na */
 "Open..." = "打开";
@@ -1015,7 +1015,7 @@
 "Spotlight Support" = "Spotlight支持";
 
 /* na */
-"This database is not searchable for Spotlight. Do you want to enable Spotlight support for this database?" = "Spotlight目前不可搜索这个数据库。您想要启用该数据库的Spotlight支持吗？";
+"This database is not searchable for Spotlight. Do you want to enable Spotlight support for this database?" = "Spotlight目前不可搜索这个数据库。主人想要启用该数据库的Spotlight支持吗？";
 
 /* na */
 "Updating Indexed Items" = "更新索引条目";
@@ -1249,7 +1249,7 @@
 "Database not available" = "数据库不可用";
 
 /* na */
-"The database \"%@\" this Spotlight result points to is not available. Maybe you have moved it to another volume or deleted it? Please open this database from your external volume once to update your Spotlight cache." = "这个数据库 \"%@\" Spotlight的结果指向是不可用的。可能您此前已经将它移至了另一个卷或者删除了？请从您的外部卷打开一次这个数据库，以更新您的Spotlight缓存。";
+"The database \"%@\" this Spotlight result points to is not available. Maybe you have moved it to another volume or deleted it? Please open this database from your external volume once to update your Spotlight cache." = "在这个数据库 \"%@\" 中，Spotlight的结果指向不可用。主人在以前可能已经将它删除或者移至另一个卷？请主人从外部卷中打开一次这个数据库，以更新Spotlight缓存。";
 
 /* na */
 "Optimization of database failed." = "优化数据库失败。";
@@ -1270,7 +1270,7 @@
 "Enclosing Groups" = "闭合分组";
 
 /* na */
-"Do you want to install the template \"%@\" or do you want to import it?" = "您想安装还是导入模板 \"%@\"？";
+"Do you want to install the template \"%@\" or do you want to import it?" = "主人想安装还是导入模板 \"%@\"？";
 
 /* na */
 "Import" = "导入";
@@ -1414,7 +1414,7 @@
 "Markdown File %d" = "Markdown文本 %d";
 
 /* na */
-"There are some locked items in the Trash. Do you want to remove all the items, including the locked ones, or just the unlocked items?" = "废纸篓里存在锁定的条目。您要移除包括锁定条目在内的所有条目，还是只移除未锁定条目?";
+"There are some locked items in the Trash. Do you want to remove all the items, including the locked ones, or just the unlocked items?" = "废纸篓里存在锁定的条目。主人要移除包括锁定条目在内的所有条目，还是只移除未锁定条目?";
 
 /* na */
 "Removed Unlocked Items" = "移除未锁定条目";
@@ -1444,7 +1444,7 @@
 "Checkbox" = "复选框";
 
 "Databases can't be located in cloud folders" = "数据库不能位于云文件夹中";
-"DEVONthink can automatically relocate the database \"%@\" to a safe location in your Home directory or show it in the Finder to move it on your own." = "DEVONthink可以自动将数据库\"%@\"转移至您的主目录中的安全位置，或者在 访达 中显示它，以便您可以自己移动它。";
+"DEVONthink can automatically relocate the database \"%@\" to a safe location in your Home directory or show it in the Finder to move it on your own." = "DEVONthink可以自动将数据库\"%@\"转移至主人的主目录中的安全位置，或者在 访达 中显示它，以便主人可以自己移动它。";
 "Show in Finder" = "用 访达 管理此文档";
 "Relocate" = "迁移";
 "Databases" = "数据库";
