@@ -88,7 +88,7 @@ Create 变成中文，对应不同名词，叫法不同。
 "Your software is up-to-date" = "太好了，主人的软件是最新的。(^_^)V";
 ```
 
-!(https://github.com/Leeatmy/DEVONthink-Pro-Chinese/blob/master/Look%2001%202018-05-26.png?raw=true)
+![主人我来了](https://github.com/Leeatmy/DEVONthink-Pro-Chinese/blob/master/Look%2001%202018-05-26.png?raw=true)
 
 
 ———————————— 分割线 ——————————————
