@@ -3,8 +3,8 @@
 "Characters" = "字";
 "Alphanumeric" = "包括数字";
 "Frequency" = "使用次数";
-"Groups" = "文档";
-"Length" = "占用字符";
+"Groups" = "文档使用数";
+"Length" = "占用字位";
 "Weight" = "使用比重";
 "Word" = "词汇";
 "Search" = "检索";
