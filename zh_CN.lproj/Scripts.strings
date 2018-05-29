@@ -198,16 +198,16 @@
 "Dates" = "文件 日期";
 
 /* na */
-"Touch Creation Date" = "把文档创建日期 变成当前时间";
+"Touch Creation Date" = "用当前时间 修改 文档创建时间";
 
 /* na */
-"Touch Modification Date" = "把文档修改日期 变成当前时间";
+"Touch Modification Date" = "用当前时间 修改 文档修改时间";
 
 /* na */
-"Creation > Modification Date" = "把文档修改时间 变成创建时间";
+"Creation > Modification Date" = "拷贝 创建时间 到 文档修改时间";
 
 /* na */
-"Modification > Creation Date" = "把文档创建时间 变成修改时间";
+"Modification > Creation Date" = "拷贝 修改时间 到 文档创建时间";
 
 /* na */
 "Daily backup archive" = "每日备份存档";
