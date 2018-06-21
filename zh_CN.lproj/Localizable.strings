@@ -239,7 +239,7 @@
 "Verification: %@" = "验证: %@";
 
 /* na */
-"Zipping" = "创建Zip文件";
+"Zipping" = "创建Zip存档";
 
 /* na */
 "Database Backup..." = "数据库存档...";
@@ -251,7 +251,7 @@
 "Initial Verification: %@" = "初步验证：%@";
 
 /* na */
-"Found %d inconsistencies in memory, update of database files disabled.\n Try \"Verify & Repair\" or restart the application!" = "在内存发现 %d 不一致，已停止更新数据库文件。\n 尝试 \"检测修复\" 或重新启动应用！";
+"Found %d inconsistencies in memory, update of database files disabled.\n Try \"Verify & Repair\" or restart the application!" = "在内存中发现 %d 不一致，已停止更新数据库文件。\n 尝试 \"检测修复\" 或从新启动应用！";
 
 /* na */
 "Found %d inconsistencies, %d incorrect checksums and %d missing files." = "发现 %d 不一致，%d 不正确的校验和 %d 丢失的文件。";
@@ -517,7 +517,7 @@
 "Open Frame In DEVONagent" = "在DEVONagent中打开Frame";
 
 /* na */
-"See \"%@\"" = "See »%@«";
+"See \"%@\"" = "参阅 »%@«";
 
 /* na */
 "Add tag \"%@\"" = "添加标签 »%@«";
@@ -679,16 +679,16 @@
 "Analogy" = "类比";
 
 /* na */
-"Table" = "工作表";
+"Table" = "表格";
 
 /* na */
-"Tables" = "工作表";
+"Tables" = "表格";
 
 /* na */
 "Record" = "记录";
 
 /* na */
-"New Table" = "新建工作表";
+"New Table" = "新建表格";
 
 /* na */
 "%@ replicates, %@ duplicates" = "%@ 联动镜相， %@ 复本";
@@ -845,7 +845,7 @@
 "Columns" = "列";
 
 /* na */
-"Column %d" = "列 %d";
+"Column %d" = "%d 列";
 
 /* na */
 "Add Column" = "添加列";
@@ -1255,7 +1255,7 @@
 "Optimization of database failed." = "优化数据库失败。";
 
 /* na */
-"Couldn't create Zip archive." = "创建Zip文件失败。";
+"Couldn't create Zip archive." = "创建Zip存档失败。";
 
 /* na */
 "Verification of database failed." = "验证数据库失败。";
@@ -1270,7 +1270,7 @@
 "Enclosing Groups" = "闭合分组";
 
 /* na */
-"Do you want to install the template \"%@\" or do you want to import it?" = "主人想安装还是导入模板 \"%@\"？";
+"Do you want to install the template \"%@\" or do you want to import it?" = "主人要安装还是导入模板 \"%@\"？";
 
 /* na */
 "Import" = "导入";

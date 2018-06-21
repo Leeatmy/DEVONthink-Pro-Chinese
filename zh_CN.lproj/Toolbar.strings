@@ -69,7 +69,7 @@
 "Export" = "导出";
 
 /* na */
-"Open Externally" = "打开外部";
+"Open Externally" = "使用外部程序打开";
 
 /* na */
 "Import" = "导入";
@@ -180,7 +180,7 @@
 "DEVONagent" = "DEVONagent";
 
 /* na */
-"Launch DEVONagent" = "启动DEVONagent（同时打开当前位置）";
+"Launch DEVONagent" = "启动 DEVONagent（同时打开当前位置）";
 
 /* na */
 "Backup" = "备份";
@@ -198,7 +198,7 @@
 "Link" = "链接";
 
 /* na */
-"Toggle Link" = "制作或移除链接";
+"Toggle Link" = "添加或移除链接";
 
 /* na */
 "View" = "视图";
@@ -255,7 +255,7 @@
 "Superscript" = "上标";
 
 /* na */
-"Table" = "工作表";
+"Table" = "表格";
 
 /* na */
 "Record" = "记录";
@@ -306,13 +306,13 @@
 "Columns" = "列";
 
 /* na */
-"Add new record" = "添加一个新记录";
+"Add new record" = "添加 新记录";
 
 /* na */
 "Delete selected records" = "删除所选记录";
 
 /* na */
-"Add new column" = "添加一个新列";
+"Add new column" = "添加 新列";
 
 /* na */
 "Delete selected columns" = "删除所选列";
@@ -414,22 +414,22 @@
 "Refresh Feeds" = "刷新 RSS订阅";
 
 /* na */
-"As Icons" = "图标形式";
+"As Icons" = "图标视图";
 
 /* na */
-"As List" = "列表形式";
+"As List" = "列表视图";
 
 /* na */
-"As Columns" = "多列形式";
+"As Columns" = "多列视图";
 
 /* na */
-"As Split" = "分割形式";
+"As Split" = "分割视图";
 
 /* na */
-"As 3-Pane" = "三分窗格形式";
+"As 3-Pane" = "三分窗格视图";
 
 /* na */
-"As Tags" = "标签形式";
+"As Tags" = "标签视图";
 
 /* na */
 "Create a new formatted note" = "新建 样式化笔记";

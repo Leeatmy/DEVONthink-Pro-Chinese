@@ -16,7 +16,7 @@
 "File" = "文件";
 "New Database..." = "新建数据库...";
 "Open Database..." = "打开数据库...";
-"Open Recent" = "打开最近";
+"Open Recent" = "最近使用";
 "Clear Menu" = "清除菜单";
 "New Window" = "新建窗口";
 "Import..." = "导入...";
@@ -77,7 +77,7 @@
 "To Group" = "分组条目";
 "Smart Group" = "智能分组...";
 "Open..." = "打开";
-"Open Externally" = "打开外部的";
+"Open Externally" = "使用外部程序打开";
 "Launch URL" = "启动URL";
 "Launch Path" = "启动路径";
 "Save" = "保存";
@@ -137,7 +137,7 @@
 "Raise" = "提高";
 "Lower" = "降低";
 "Character Shape" = "字符形状";
-"Traditional Form" = "传统形式";
+"Traditional Form" = "传统视图";
 "Alignment" = "对齐";
 "Align Left" = "居左";
 "Center" = "居中";
@@ -162,17 +162,17 @@
 "Link…" = "添加链接…";
 "List…" = "列表…";
 "Table…" = "表格…";
-"Make Link" = "制作链接";
-"Make Plain Text" = "制作纯文本";
+"Make Link" = "添加链接";
+"Make Plain Text" = "使用纯文本";
 "Edit Source" = "编辑源";
 "Show Invisible Characters" = "显示不可见字符";
 "Allow Hyphenation" = "允许用连字符连接";
 "Show Colors" = "显示颜色控制面板";
 "View" = "查看";
-"as List" = "列表形式";
-"as Icons" = "图标形式";
-"as Columns" = "多列形式";
-"as Split" = "分割形式";
+"as List" = "列表视图";
+"as Icons" = "图标视图";
+"as Columns" = "多列视图";
+"as Split" = "分割视图";
 "Wide Screen" = "宽屏";
 "Show Details" = "显示详情";
 "Cover Flow" = "封面流";
@@ -256,7 +256,7 @@
 "Hide Groups" = "隐藏分组和标签";
 "Window" = "窗口";
 "Close Window" = "关闭";
-"Close All" = "关闭全部";
+"Close All" = "全部关闭";
 "Zoom Window" = "缩放";
 "Minimize Window" = "最小化";
 "Minimize All" = "全部最小化";
@@ -288,8 +288,8 @@
 "Format:" = "格式化：";
 "Automatic" = "自动";
 "Keep Windows in Front" = "保持窗口在前端";
-"as Three Panes" = "三分窗格形式";
-"as Tags" = "标签形式";
+"as Three Panes" = "三分窗格视图";
+"as Tags" = "标签视图";
 "Copy Item Link" = "拷贝条目链接";
 "Copy Database Link" = "拷贝数据库链接";
 "Copy Page Link" = "拷贝页面链接";
@@ -309,7 +309,7 @@
 "Add To Favorites" = "添加到收藏夹";
 "Remove From Favorites" = "从收藏夹移除";
 "Split Document" = "分割文档";
-"Set As Thumbnail" = "设定为缩略图";
+"Set As Thumbnail" = "设为缩略图";
 "New Smart Group..." = "新建智能分组...";
 "Delete Smart Group" = "删除智能分组";
 "Delete Database" = "删除数据库...";
@@ -334,14 +334,14 @@
 "Welcome to DEVONnote" = "欢迎使用DEVONnote";
 "Support Assistant" = "支持助理";
 
-"Substitutions" = "替代";
-"Show Substitutions" = "显示替代";
+"Substitutions" = "替换";
+"Show Substitutions" = "显示替换";
 "Smart Copy/Paste" = "智能拷贝/粘贴";
 "Smart Quotes" = "智能引用";
 "Smart Dashes" = "智能连字符";
 "Smart Links" = "智能链接";
 "Data Detectors" = "数据探测器";
-"Text Replacement" = "文本更换";
+"Text Replacement" = "文本呈现";
 
 "Spelling and Grammar" = "拼写和语法";
 "Show Spelling and Grammar" = "显示拼写和语法";
@@ -351,23 +351,23 @@
 "Correct Spelling Automatically" = "自动纠正拼写";
 
 "Transformations" = "转换";
-"Make Upper Case" = "为大写";
-"Make Lower Case" = "为小写";
-"Capitalize" = "以大写字母书写";
+"Make Upper Case" = "使用大写字母";
+"Make Lower Case" = "使用小写字母";
+"Capitalize" = "首字母大写";
 
 "Open Templates Folder" = "打开模版文件夹";
 "Update Templates Menu" = "更新模版菜单";
 
 "Save Search" = "保存搜索";
-"Text Alternative" = "文本替代";
+"Text Alternative" = "文本呈现";
 
 "Crop Box" = "裁剪框";
 "Media Box" = "媒体框";
 "Actions" = "动作";
-"Show As Text Alternative" = "显示为文本替代";
-"Show As Best Alternative" = "显示为最佳替代";
-"Text Alternative" = "文本替代";
-"Best Alternative" = "最佳替代";
+"Show As Text Alternative" = "显示为文本呈现";
+"Show As Best Alternative" = "显示为最佳呈现";
+"Text Alternative" = "文本呈现";
+"Best Alternative" = "最佳呈现";
 "Tags..." = "标签...";
 "Tags" = "标签";
 "Enter Full Screen" = "进入全屏";
