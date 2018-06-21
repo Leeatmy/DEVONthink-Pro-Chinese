@@ -110,7 +110,7 @@
 "%d documents" = "%d 合并后的文件";
 
 /* na */
-"Convert document to plain text?" = "主人请注意：确定要将文档转换成以txt为格式的纯文本吗？";
+"Convert document to plain text?" = "主人请注意：确定要将文档转换成以 txt 为格式的纯文本吗？";
 
 /* na */
 "Converting will lose fonts, colors, and other text styles in the document." = "转换仅仅只保留文字。将除去此文档中的所有图片、链接、定制字型、字体颜色，以及文档中的其它样式。";
@@ -481,7 +481,7 @@
 "Open Link In DEVONagent" = "在DEVONagent中打开链接";
 
 /* na */
-"Open Image In PhotoStickies" = "在PhotoStickies中打开图像";
+"Open Image In PhotoStickies" = "在PhotoStickies中打开图片";
 
 /* na */
 "The files of your database are stored in an old format. Do you want to upgrade to the current format?\n\nThe application will export the contents and import them into a new database." = "此数据库文件是用旧格式储存的。主人想更新此数据库到当前格式吗？\n\n DEVONthink 将导出内容并将其导入到一个新的数据库中。";
@@ -493,7 +493,7 @@
 "Capture Link" = "捕获 链接";
 
 /* na */
-"Capture Image" = "捕获 图像";
+"Capture Image" = "捕获 图片";
 
 /* na */
 "Found %d major file errors.\n Please rebuild your database and verify the contents afterwards!" = "发现 %d 主要文件出错。请恢复最后的备份或从建数据库，并核实之后的内容！";
@@ -610,7 +610,7 @@
 "Copy Frame Address" = "拷贝Frame地址";
 
 /* na */
-"Copy Image Address" = "拷贝图像地址";
+"Copy Image Address" = "拷贝图片地址";
 
 /* na */
 "Restore Backup" = "恢复备份";
@@ -706,7 +706,7 @@
 "Copy Link" = "拷贝链接";
 
 /* na */
-"Copy Image" = "拷贝图像";
+"Copy Image" = "拷贝图片";
 
 /* na */
 "Movie" = "影片";
@@ -770,13 +770,13 @@
 "Never" = "从不";
 
 /* na */
-"Open Externally" = "打开外部";
+"Open Externally" = "使用外部程序打开";
 
 /* na */
 "Open With %@" = "使用 %@ 打开";
 
 /* na */
-"Open With" = "使用...打开";
+"Open With" = "使用外部程序...打开";
 
 /* na */
 "Contacts..." = "联系人...";
@@ -991,7 +991,7 @@
 "Text" = "Text";
 
 /* na */
-"(default)" = "（默认）";
+"(default)" = "(default)";
 
 /* na */
 "Capture Frame Address" = "捕捉Frame地址";
@@ -1021,55 +1021,55 @@
 "Updating Indexed Items" = "更新索引条目";
 
 /* na */
-"New Group" = "新建分组";
+"New Group" = "新建 分组";
 
 /* na */
-"New Tag" = "新建标签";
+"New Tag" = "新建 标签";
 
 /* na */
-"New Smart Group" = "新建智能分组";
+"New Smart Group" = "新建 智能分组";
 
 /* na */
-"New Plain Text" = "新建纯文本";
+"New Plain Text" = "新建 纯文本";
 
 /* na */
-"New Rich Text" = "新建富文本";
+"New Rich Text" = "新建 富文本";
 
 /* na */
-"New Script" = "新建脚本";
+"New Script" = "新建 脚本";
 
 /* na */
-"New HTML Page" = "新建HTML页面";
+"New HTML Page" = "新建 HTML页面";
 
 /* na */
-"New Web Archive" = "新建Web存档";
+"New Web Archive" = "新建 Web存档";
 
 /* na */
-"New XML File" = "新建XML文件";
+"New XML File" = "新建 XML文件";
 
 /* na */
-"New Property List" = "新建属性列表";
+"New Property List" = "新建 属性列表";
 
 /* na */
-"New Picture" = "新建图像";
+"New Picture" = "新建 图片";
 
 /* na */
-"New PDF Document" = "新建PDF文档";
+"New PDF Document" = "新建 PDF文档";
 
 /* na */
-"New QuickTime Movie" = "新建QuickTime影片";
+"New QuickTime Movie" = "新建 QuickTime影片";
 
 /* na */
-"New Bookmark" = "新建书签";
+"New Bookmark" = "新建 书签";
 
 /* na */
-"New Feed" = "新建RSS订阅";
+"New Feed" = "新建 RSS订阅";
 
 /* na */
-"New Table" = "新建工作簿";
+"New Table" = "新建 工作簿";
 
 /* na */
-"New Record" = "新建记录";
+"New Record" = "新建 记录";
 
 /* na */
 "Group %d" = "分组 %d";
@@ -1102,7 +1102,7 @@
 "Property List %d" = "属性列表 %d";
 
 /* na */
-"Picture %d" = "图像 %d";
+"Picture %d" = "图片 %d";
 
 /* na */
 "PDF Document %d" = "PDF文档 %d";
@@ -1135,7 +1135,7 @@
 "Open Frame In Tab" = "在新标签页中打开Frame";
 
 /* na */
-"Open Image In Tab" = "在新标签页中打开图像";
+"Open Image In Tab" = "在新标签页中打开图片";
 
 /* na */
 "_dtName_" = "名称";
@@ -1186,7 +1186,7 @@
 "Save Search:" = "保存搜索：";
 
 /* na */
-"All Images" = "所有图像";
+"All Images" = "所有图片";
 
 /* na */
 "All PDF Documents" = "所有PDF文档";
@@ -1372,7 +1372,7 @@
 "OCR failed for document '%@'." = "文档'%@'OCR失败。";
 
 /* na */
-"PDF (One Page)" = "PDF（一页）";
+"PDF (One Page)" = "PDF（单页）";
 
 /* na */
 "PDF (Paginated)" = "PDF（分页）";
@@ -1448,3 +1448,4 @@
 "Show in Finder" = "用 访达 管理此文档";
 "Relocate" = "迁移";
 "Databases" = "数据库";
+"Import of %d messages failed." = "%d 消息导入失败。";

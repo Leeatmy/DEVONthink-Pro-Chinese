@@ -2,9 +2,9 @@
 "Auto Classify" = "自动归类";
 "Auto Group" = "自动分组";
 "by Comment" = "按注释";
-"by Date Added" = "按添加日期";
-"by Date Created" = "按创建日期";
-"by Date Modified" = "按修改日期";
+"by Date Added" = "按添加时间";
+"by Date Created" = "按创建时间";
+"by Date Modified" = "按修改时间";
 "by Kind" = "按文件种类";
 "by Label" = "按标记";
 "by Name" = "按名称";
@@ -16,7 +16,7 @@
 "Classify" = "归类";
 "Close drawer" = "关闭抽屉";
 "Columns" = "列";
-"Convert" = "转换";
+"Convert" = "转换成";
 "Create" = "建立";
 "Descending" = "降序";
 "Frequency" = "频次";
@@ -61,10 +61,10 @@
 "Size" = "大小";
 "Sort" = "排序";
 "Thumbnails" = "缩略图";
-"to Plain Text" = "转换成 纯文本 txt";
-"to Rich Text" = "转换成 富文本 rtf / rtfd ";
-"to HTML" = "转换成 HTML";
-"to Formatted Note" = "转换成 样式化笔记 html";
+"to Plain Text" = "纯文本 txt";
+"to Rich Text" = "富文本 rtf / rtfd ";
+"to HTML" = "HTML";
+"to Formatted Note" = "样式化笔记 html";
 "Ungroup" = "取消分组";
 "Unsorted" = "不排序";
 "Update" = "更新";

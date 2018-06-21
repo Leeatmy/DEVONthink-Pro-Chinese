@@ -1,9 +1,9 @@
 /* Localized strings for templates */
 
 "1 E-mail" = "E-mail";
-"1 Images (large)" = "图像（大）";
-"1 Images (small)" = "图像（小）";
-"1 Images" = "图像";
+"1 Images (large)" = "图片（大）";
+"1 Images (small)" = "图片（小）";
+"1 Images" = "图片";
 "1 Music" = "音乐";
 "1 Other Documents" = "其它文档";
 "1 QuickTime Media" = "QuickTime媒体";

@@ -1,9 +1,9 @@
 
 /* na */
-"New Plain Text" = "纯文本 txt";
+"New Plain Text" = "纯文本";
 
 /* na */
-"New Rich Text" = "富文本 rtf / rtfd";
+"New Rich Text" = "富文本";
 
 /* na */
 "New Group" = "分组";
@@ -75,10 +75,10 @@
 "Import" = "导入";
 
 /* na */
-"Create a new plain text" = "新建 纯文本 txt";
+"Create a new plain text" = "新建 纯文本";
 
 /* na */
-"Create a new rich text" = "新建 富文本 rtf / rtfd";
+"Create a new rich text" = "新建 富文本";
 
 /* na */
 "Create a new group" = "新建 分组";
@@ -432,7 +432,7 @@
 "As Tags" = "标签形式";
 
 /* na */
-"Create a new formatted note" = "新建 样式化笔记 html";
+"Create a new formatted note" = "新建 样式化笔记";
 
 /* na */
 "New Formatted Note" = "样式化笔记";
