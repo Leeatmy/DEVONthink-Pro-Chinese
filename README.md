@@ -1,4 +1,11 @@
 
+# 更多的 图标优化
+
+https://github.com/Leeatmy/macOS_files_icns
+
+![天天养眼666](https://raw.githubusercontent.com/Leeatmy/DEVONthink-Pro-Chinese/master/Screenshot/5.png?raw=true)
+
+
 # DEVONthink Pro 2.10 中文化 （汉化）2018-05
 
 已经来到了，2018年5月，转眼已经快3年了，看着这些过去留下的文字，也留下了曾经的记忆。没有想到，这个中文化能够被网友发现，并且把链接粘贴到zhihu上，没有想到会被很多朋友使用，在这里表示感谢。
@@ -88,10 +95,10 @@ Create 变成中文，对应不同名词，叫法不同。
 "Your software is up-to-date" = "太好了，主人的软件是最新的。(^_^)V";
 ```
 
-![主人我来了](https://github.com/Leeatmy/DEVONthink-Pro-Chinese/blob/master/Look%2001%202018-05-26.png?raw=true)
+![主人我来了](https://raw.githubusercontent.com/Leeatmy/DEVONthink-Pro-Chinese/master/Screenshot/1.png?raw=true)
 
 
-———————————— 分割线 ——————————————
+———————————— 分割线 原来的 ——————————————
 
 # DEVONthink Pro 2.8.7 中文化（汉化）
 
