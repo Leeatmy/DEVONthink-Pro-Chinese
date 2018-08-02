@@ -122,3 +122,7 @@ Create 变成中文，对应不同名词，叫法不同。
 ## 使用方法
 
 下载`zh_CN.lproj.7z`解压缩到 `/Applications/DEVONthink Pro.app/Contents/Resources/`
+—————————————————————————————————— 分割线 ——————————————————————————————————
+# 相关资源
+Pixelmator-zh_CN.lproj
+https://github.com/owen0o0/Pixelmator-zh_CN.lproj
