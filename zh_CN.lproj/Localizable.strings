@@ -20,7 +20,7 @@
 "Move To" = "移动到";
 
 /* na */
-"Replicate To" = "生成 联动镜相";
+"Replicate To" = "镜相到";
 
 /* na */
 "Duplicate To" = "复制到";
@@ -308,10 +308,10 @@
 "Index Files" = "索引文件";
 
 /* na */
-"Are you sure you want to remove the items in the Trash permanently? You cannot undo this action." = "主人确定要永久移除废纸篓中的条目吗？此操作无法撤消。";
+"Are you sure you want to remove the items in the Trash permanently? You cannot undo this action." = "主人确定要永久移除废纸篓中的条目吗？此操作会无法撤消。";
 
 /* na */
-"Do you really want to remove the selected items? This cannot be undone." = "主人确定要移除所选条目吗？此操作无法撤消。";
+"Do you really want to remove the selected items? This cannot be undone." = "主人确定要移除所选条目吗？此操作会无法撤消。";
 
 /* na */
 "Do you really want to remove the selected items?" = "主人确定要移除所选条目吗？";
@@ -335,19 +335,19 @@
 "Optimizing data..." = "优化数据";
 
 /* na */
-"Checking data..." = "检查数据...";
+"Checking data..." = "检查数据 ...";
 
 /* na */
-"Checking checksums..." = "检查校验...";
+"Checking checksums..." = "检查校验 ...";
 
 /* na */
-"Checking files..." = "检查文件...";
+"Checking files..." = "检查文件 ...";
 
 /* na */
-"Repairing..." = "正在修复...";
+"Repairing..." = "正在修复 ...";
 
 /* na */
-"Checking again..." = "再次检查...";
+"Checking again..." = "再次检查 ...";
 
 /* Statistics */
 "%d" = "%d";
@@ -391,7 +391,7 @@
 "Unknown version of database files!" = "数据库文件版本未知！";
 
 /* na */
-"The database you are trying to open seems to be either in use by another instance of %@ or has not been closed properly the last time it was used. Press 'Continue' to open the database anyway if you are sure it is not in use by another copy of %@." = "主人，另一个程序 %@ 正在使用您要打开的数据库，也可能，最后一次使用此数据库时并没有正确的关闭。如果主人确定此数据库没有正在被另一个程序 %@ 使用，请点“继续”打开它。";
+"The database you are trying to open seems to be either in use by another instance of %@ or has not been closed properly the last time it was used. Press 'Continue' to open the database anyway if you are sure it is not in use by another copy of %@." = "主人，另一个程序 %@ 正在使用您要打开的数据库，也可能，最后一次使用此数据库时并没有正确的关闭。如果主人确定此数据库没有正在被另一个程序 %@ 使用，请点 “继续” 打开它。";
 
 /* na */
 "This database might be in use on another computer. Opening it anyway might result in data loss or data corruption." = "该数据库也许正在另一台计算机上使用，继续打开可能会导致数据丢失或损坏。";
@@ -457,19 +457,19 @@
 "Capture Web Archive" = "捕捉Web存档";
 
 /* na */
-"Update Captured Page" = "更新已捕捉页面";
+"Update Captured Page" = "更新 已捕捉页面";
 
 /* na */
-"Update Captured Archive" = "更新已捕捉存档";
+"Update Captured Archive" = "更新 已捕捉存档";
 
 /* na */
-"Capture Note" = "捕捉富文本";
+"Capture Note" = "捕捉 富文本";
 
 /* na */
-"Capture PDF" = "捕捉PDF";
+"Capture PDF" = "捕捉 PDF";
 
 /* na */
-"Capture Paginated PDF" = "捕捉分页PDF";
+"Capture Paginated PDF" = "捕捉 分页PDF";
 
 /* na */
 "Open Link" = "打开链接";
@@ -935,7 +935,7 @@
 "New Record" = "新建记录";
 
 /* na */
-"New Column..." = "新建列...";
+"New Column..." = "新建列 ...";
 
 /* na */
 "(%d records)" = " (%d 记录)";
@@ -945,14 +945,14 @@
 
 /* na */
 "Delete Columns" = "删除列";
-"Delete Columns..." = "删除列...";
+"Delete Columns..." = "删除列 ...";
 
 /* na */
 "Delete Records" = "删除记录";
-"Delete Records..." = "删除记录...";
+"Delete Records..." = "删除记录 ...";
 
 /* na */
-"Edit Columns..." = "编辑列...";
+"Edit Columns..." = "编辑列 ...";
 
 /* na */
 "%d x %d, %02d:%02d:%02d" = "%d x %d, %02d:%02d:%02d";
@@ -994,13 +994,13 @@
 "(default)" = "(default)";
 
 /* na */
-"Capture Frame Address" = "捕捉Frame地址";
+"Capture Frame Address" = "捕捉 Frame地址";
 
 /* na */
-"Capture Page Address" = "捕捉页面地址";
+"Capture Page Address" = "捕捉 页面地址";
 
 /* na */
-"Capture Formatted Note" = "捕捉样式化笔记";
+"Capture Formatted Note" = "捕捉 样式化笔记";
 
 /* na */
 "Last Destinations" = "最近的目标";
@@ -1237,13 +1237,13 @@
 "Refresh Feed" = "刷新RSS订阅";
 
 /* na */
-"Refreshing Feeds" = "正在刷新RSS订阅...";
+"Refreshing Feeds" = "正在刷新RSS订阅 ...";
 
 /* na */
-"Downloading Pages" = "正在下载页面...";
+"Downloading Pages" = "正在下载页面 ...";
 
 /* na */
-"Updating Inbox..." = "正在更新收件箱...";
+"Updating Inbox..." = "正在更新收件箱 ...";
 
 /* na */
 "Database not available" = "数据库不可用";
@@ -1336,16 +1336,16 @@
 "Update Workspace" = "更新工作区";
 
 /* na */
-"Add..." = "添加...";
+"Add..." = "添加 ...";
 
 /* na */
-"Delete..." = "删除...";
+"Delete..." = "删除 ...";
 
 /* na */
-"Edit..." = "编辑...";
+"Edit..." = "编辑 ...";
 
 /* na */
-"Update..." = "更新...";
+"Update..." = "更新 ...";
 
 /* na */
 "Edit Workspaces" = "编辑工作区";
@@ -1396,10 +1396,10 @@
 "Formatted Note %d" = "样式化笔记 %d";
 
 /* na */
-"Add Link..." = "添加链接...";
+"Add Link..." = "添加链接 ...";
 
 /* na */
-"Edit Link..." = "修改链接...";
+"Edit Link..." = "修改链接 ...";
 
 /* na */
 "Move Originals to Trash" = "将原稿移至废纸篓";
